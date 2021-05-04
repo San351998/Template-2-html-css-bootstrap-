@@ -1,0 +1,171 @@
+
+.logo img{
+	width: 100px;
+	height: 15px;
+}
+
+.homeimage{
+	background-image: url(home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height:600px;
+}
+.homeimage h5{
+	font-size: 40px;
+	}
+.homeimage h1{
+	font-size: 100px;
+	padding-top: 250px;
+	}
+
+@media (max-width: 768px) {
+.col-1{
+   max-width: 50%;
+   flex: 20%;
+   padding-bottom: 30px;
+  }
+}
+@media (max-width: 768px) {
+ .col-6{
+    max-width: 100%;
+    flex: 100%;
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+ .col-4{
+   max-width: 50%;
+   flex: 50%;
+   margin-top: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+ .col-4{
+   max-width: 100%;
+   flex: 100%;
+   margin-top: 40px;
+  }
+}
+
+
+@media (min-width: 768px) {
+.container-fluid .row{
+   margin-left:160px;
+  }
+}
+@media (min-width: 768px) {
+.icons{
+   margin-top: 45px;
+  }
+}
+@media (min-width: 768px) {
+.MainDemo{
+   margin-top: 180px;
+  }
+}
+@media (min-width: 768px) {
+.templatefeatures{
+   margin-top: 80px;
+   margin-bottom: 70px;
+  }
+}
+
+@media (min-width: 768px) {
+.MainDemoRow1{
+   margin-top: 30px;
+   margin-bottom: 30px;
+  }
+}
+@media (min-width: 768px) {
+.MainDemoRow1 p{
+   margin-top: 20px;
+   margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+.MainDemoRow2{
+   margin-top: 70px;
+  }
+}
+
+@media (min-width: 768px) {
+.MainDemoRow2 p{
+   margin-top: 15px;
+   margin-bottom: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+.container-fluid h3{
+   margin-top: 100px;
+   margin-bottom: 34px;
+  }
+}
+@media (min-width: 768px) {
+.e{
+   margin-top: 35px;
+   margin-bottom: 85px;
+  }
+}
+@media (min-width: 768px) {
+.e p{
+   margin-top: 15px;
+   margin-bottom: 15px;
+  }
+}
+@media (min-width: 768px) {
+.BlogpagesRow1{
+   margin-top: 35px;
+   margin-bottom: 85px;
+  }
+}
+@media (min-width: 768px) {
+.BlogpagesRow1 p{
+   margin-top: 15px;
+   margin-bottom: 15px;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+.tf h3{
+   margin-top: 30px;
+   margin-bottom: 30px;
+  }
+}
+@media (max-width: 768px) {
+.MainDemoRow1 p{
+   margin-top: 10px;
+  }
+}
+@media (max-width: 768px) {
+.MainDemoRow2 p{
+   margin-top: 9px;
+   margin-bottom: 30px;
+  }
+}
+@media (max-width: 768px) {
+.Blogpages h3{
+   margin-top: 80px;
+
+  }
+}
+@media (max-width: 768px) {
+.MainDemoRow2{
+   margin-top: 7px;
+   margin-bottom: 80px;
+  }
+}
+@media (max-width: 768px) {
+.e p{
+   margin-top: 10px;
+   margin-bottom: 15px;
+  }
+}
+
